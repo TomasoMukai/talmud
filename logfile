@@ -1,0 +1,30 @@
+Tomaso Mukai
+--------------
+CPSC276
+--------------
+TALMUD APP LOG
+--------------
+
+3/28 -- 1.75 hours
+Discussed project with Yoni
+Basic idea -- front end UI for labelled Talmud lines, displayed one page at a time
+
+3/31 -- 0.5 hours
+Typed up basic specification for my part of the project
+
+4/2 -- 1.25 hours
+Clarified hover-highlight idea with Yoni -- color code by type, highlight only parent
+
+4/3 -- 2 hours
+Wrote basic text class with hover highlight function
+Need to ask Kenny about:
+	Spawning child react component and remembering its parent
+		so that I can hover over child to highlight parent
+	making the component capable of rendering from some sort of loop
+Ask Yoni about, slash brainstorm:
+	ideal UI layout/color scheme
+	link each line to comments about that line
+	SETUP GIT REPO
+
+4/4
+porting framework: using flask & templates instead
