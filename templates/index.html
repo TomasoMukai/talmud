@@ -1,0 +1,16 @@
+<html>
+	<body>
+		{% for line in page|dictsort %}
+		<li>{{ line  }}</li>
+		<div class="line" id="{{ line.id }}">
+			<div>
+				{{ line.htext }}
+			</div>
+			<div>
+				{{ line.text }}
+			</div>
+		</div>
+		{% endfor %}
+	</body>
+</html>
+
