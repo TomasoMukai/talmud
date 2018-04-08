@@ -5,7 +5,7 @@ d = {'1': {
 	'text':'Hello World',
 	'htext':'!שלום ,עולם',
 	'id':'line1',
-	'parent':''},
+	'parent':'none'},
 
 	'2': {
 	'text':'Goodbye World',

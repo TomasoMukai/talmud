@@ -1,0 +1,29 @@
+body{
+	font: sans-serif;
+	background: #f4e1d2;
+}
+
+
+.linecontainer{
+	background: rgba(0, 0, 0, 0);
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.line {
+	background: rgba(0, 0, 0, 0);
+    margin: 0 auto;
+    width: 50%;
+}
+
+.subline {
+	background: rgba(0, 0, 0, 0);
+	margin: 0 auto;
+	display: inline-block;
+    vertical-align: top;
+    clear: left;
+    padding: 10px;
+    width: 45%;
+    
+}
+
